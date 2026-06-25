@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/axiosinstance.ts","./src/api/taskapi.ts","./src/components/protectedroute.tsx","./src/components/taskcard.tsx","./src/components/taskform.tsx","./src/pages/loginpage.tsx","./src/pages/registerpage.tsx","./src/pages/taskspage.tsx"],"version":"5.9.3"}
