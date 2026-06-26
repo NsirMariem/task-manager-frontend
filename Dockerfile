@@ -5,7 +5,7 @@ WORKDIR /app
 # Install dependencies
 COPY package.json package-lock.json* tsconfig.json tsconfig.node.json vite.config.ts ./
 COPY index.html ./
-COPY public ./public
+# COPY public ./public
 COPY src ./src
 RUN npm ci
 
